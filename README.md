@@ -10,3 +10,10 @@ With features such as Automatic Contact Tracing and Test Center Locator, the app
 ![ScreenShot](/Screen%20Shot%202020-11-12%20at%2010.52.55%20PM.png)
 ![ScreenShot](/Screen%20Shot%202020-11-12%20at%2010.53.00%20PM.png)
 ![ScreenShot](/Screen%20Shot%202020-11-12%20at%2010.53.04%20PM.png)
+
+## Some planned features
+
+* Red zone warning (Inform user when entering a high risk area)
+* Immediate button to call COVID hotline
+* Instant contact list (These people will be contacted at the push of a button)
+* Vaccine availability status
